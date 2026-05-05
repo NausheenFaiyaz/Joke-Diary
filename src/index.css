@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;700&family=Patrick+Hand&family=Shadows+Into+Light&display=swap');
+
+:root {
+  font-family: 'Baloo 2', cursive;
+  color: #1f2533;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 8% 20%, #eef4ff 0 6%, transparent 7%),
+    radial-gradient(circle at 93% 32%, #fff0b8 0 6%, transparent 7%),
+    radial-gradient(circle at 18% 72%, #f4e6ff 0 6%, transparent 7%),
+    radial-gradient(circle at 81% 86%, #d8ecff 0 6%, transparent 7%),
+    linear-gradient(180deg, #cbd9ee 0%, #d7e5f8 100%);
+}
+
+#root {
+  min-height: 100vh;
+}
