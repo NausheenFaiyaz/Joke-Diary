@@ -46,15 +46,15 @@ The app fetches paginated data using:
 ```text
 Jokes-Viewer-Application/
 +- src/
-¦  +- components/
-¦  ¦  +- Header.jsx
-¦  ¦  +- JokeCard.jsx
-¦  ¦  +- PrevButton.jsx
-¦  ¦  +- NextButton.jsx
-¦  +- App.jsx
-¦  +- App.css
-¦  +- index.css
-¦  +- main.jsx
+ï¿½  +- components/
+ï¿½  ï¿½  +- Header.jsx
+ï¿½  ï¿½  +- JokeCard.jsx
+ï¿½  ï¿½  +- PrevButton.jsx
+ï¿½  ï¿½  +- NextButton.jsx
+ï¿½  +- App.jsx
+ï¿½  +- App.css
+ï¿½  +- index.css
+ï¿½  +- main.jsx
 +- index.html
 +- package.json
 +- README.md
@@ -133,4 +133,4 @@ This project is deployed on **Vercel**:
 
 ## Author
 
-Built by **Logme** as part of FreeAPI practice projects.
+Built by **Nausheen Faiyaz** as part of FreeAPI practice projects.
